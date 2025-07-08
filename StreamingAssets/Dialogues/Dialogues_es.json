@@ -1,0 +1,33 @@
+{
+  "entries": [
+    { "key": "A1_EMILIO_01", "value": "Solo tenemos tres hojas." },
+    { "key": "A1_DAVID_01", "value": "Podríamos hacer una lista de cosas inútiles." },
+    { "key": "A1_EMILIO_02", "value": "¿O usarlas para algo más serio… como un torneo de Gato?" },
+    { "key": "A1_DAVID_02", "value": "Siempre ganaba esto en la primaria." },
+    { "key": "A1_EMILIO_03", "value": "Me hacían perder a propósito." },
+    { "key": "A1_DAVID_03", "value": "A mí me hacían trampa… lo recuerdo bien." },
+    { "key": "A1_EMILIO_04", "value": "Bueno, esta vez jugamos limpio." },
+    { "key": "A1_FINAL",       "value": "Fue solo un juego.\nPero se sintió como hablar… sin palabras." },
+
+    { "key": "A2_DAVID_01", "value": "Nada nuevo." },
+    { "key": "A2_EMILIO_01", "value": "Tal vez la Tierra se volvió tímida." },
+    { "key": "A2_DAVID_02", "value": "O ya nos olvidaron." },
+    { "key": "A2_EMILIO_02", "value": "Yo no me he olvidado de ti. ¿Jugamos?" },
+    { "key": "A2_DAVID_03", "value": "¿Sabes qué me molesta más?" },
+    { "key": "A2_EMILIO_03", "value": "¿El silencio?" },
+    { "key": "A2_DAVID_04", "value": "Que no sé si alguien va a responder." },
+    { "key": "A2_EMILIO_04", "value": "Entonces responde tú. Aunque no pregunten." },
+    { "key": "A2_FINAL",       "value": "Jugábamos por costumbre.\nPero algo se movía en el tablero…\n...nosotros mismos." },
+
+    { "key": "A3_EMILIO_01", "value": "Hoy amaneció bonito." },
+    { "key": "A3_DAVID_01", "value": "Pensé que ya no íbamos a verlo." },
+    { "key": "A3_EMILIO_02", "value": "¿Una última por si acaso?" },
+    { "key": "A3_DAVID_02", "value": "Una última… o una más." },
+    { "key": "A3_EMILIO_03", "value": "¿Crees que allá abajo ya siguieron sin nosotros?" },
+    { "key": "A3_DAVID_03", "value": "Es lo que se hace en la Tierra." },
+    { "key": "A3_EMILIO_04", "value": "¿Y nosotros?" },
+    { "key": "A3_DAVID_04", "value": "Seguimos girando también." },
+    { "key": "A3_EMILIO_05", "value": "Jugando. Esperando. Viviendo." },
+    { "key": "A3_FINAL",       "value": "No ganamos.\nPero no lo jugamos para eso.\nJugamos para hacer espacio en el silencio.\nPara no dejar que se cerrara del todo." }
+  ]
+}

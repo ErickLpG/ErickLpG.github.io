@@ -1,0 +1,33 @@
+{
+  "entries": [
+    { "key": "A1_EMILIO_01", "value": "We only have three sheets." },
+    { "key": "A1_DAVID_01", "value": "We could make a list of useless things." },
+    { "key": "A1_EMILIO_02", "value": "Or use them for something serious... like a Tic-Tac-Toe tournament?" },
+    { "key": "A1_DAVID_02", "value": "I always won this in elementary school." },
+    { "key": "A1_EMILIO_03", "value": "They used to let me lose on purpose." },
+    { "key": "A1_DAVID_03", "value": "They used to cheat against me... I remember it well." },
+    { "key": "A1_EMILIO_04", "value": "Well, this time we play fair." },
+    { "key": "A1_FINAL",     "value": "It was just a game.\nBut it felt like talking... without words." },
+
+    { "key": "A2_DAVID_01", "value": "Nothing new." },
+    { "key": "A2_EMILIO_01", "value": "Maybe Earth got shy." },
+    { "key": "A2_DAVID_02", "value": "Or they’ve forgotten us." },
+    { "key": "A2_EMILIO_02", "value": "I haven’t forgotten you. Want to play?" },
+    { "key": "A2_DAVID_03", "value": "You know what bothers me the most?" },
+    { "key": "A2_EMILIO_03", "value": "The silence?" },
+    { "key": "A2_DAVID_04", "value": "That I don't know if anyone will answer." },
+    { "key": "A2_EMILIO_04", "value": "Then you answer. Even if no one asks." },
+    { "key": "A2_FINAL",     "value": "We played out of habit.\nBut something moved on the board...\n...ourselves." },
+
+    { "key": "A3_EMILIO_01", "value": "It’s a beautiful morning today." },
+    { "key": "A3_DAVID_01", "value": "I thought we wouldn’t see it again." },
+    { "key": "A3_EMILIO_02", "value": "One last game just in case?" },
+    { "key": "A3_DAVID_02", "value": "One last... or one more." },
+    { "key": "A3_EMILIO_03", "value": "Do you think down there they’ve moved on without us?" },
+    { "key": "A3_DAVID_03", "value": "That’s what people do on Earth." },
+    { "key": "A3_EMILIO_04", "value": "And us?" },
+    { "key": "A3_DAVID_04", "value": "We keep spinning too." },
+    { "key": "A3_EMILIO_05", "value": "Playing. Waiting. Living." },
+    { "key": "A3_FINAL",     "value": "We didn’t win.\nBut we didn’t play for that.\nWe played to carve space into the silence.\nTo keep it from closing completely." }
+  ]
+}
